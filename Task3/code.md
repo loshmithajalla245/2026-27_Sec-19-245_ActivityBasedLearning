@@ -43,3 +43,17 @@ Bonus: 2000
 Deduction: 1000
 Net Salary: 26000.0
 
+## Flow chart
+
+```mermaid
+graph TD
+    A([Start]) --> B[/Enter Employee Name/]
+    B --> C[/Enter Basic Salary/]
+    C --> D[Bonus = 2000]
+    D --> E[Deduction = 1000]
+    E --> F[Total Salary = Salary + Bonus]
+    F --> G[Net Salary = Total Salary - Deduction]
+    G --> H[/Display Employee Details and Net Salary/]
+    H --> I([Stop])
+```
+
