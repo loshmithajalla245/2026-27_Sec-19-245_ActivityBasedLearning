@@ -17,7 +17,7 @@ To develop a Python program for a University Scholarship Allocation System. The 
 12. Stop the program.
 
 ## Python source code
-
+```
 name = input("Enter student name: ")
 marks = float(input("Enter student marks (%): "))
 income = float(input("Enter annual family income: "))
@@ -41,6 +41,7 @@ elif marks >= 60 and income <= 600000:
 else:
     print("Sorry!", name)
     print("You are not eligible for a scholarship.")
+```
 
 ## Sample Input
 
