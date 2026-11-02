@@ -1,8 +1,8 @@
-## Problem Statement
+# Problem Statement
 
 To write a Python program to calculate a student's attendance percentage and check whether the student is eligible based on the minimum attendance requirement of 75%. If attendance is below 75%, the program calculates the additional classes required to reach the eligibility percentage.
 
-## Algorithm
+# Algorithm
 
 1. Start the program.
 2. Enter the total number of classes.
@@ -17,7 +17,7 @@ To write a Python program to calculate a student's attendance percentage and che
 9. Display "Attendance is Below 75%" and extra classes needed.
 10. Stop the program.
 
- ## Python source code
+ # Python source code
  ```
  total = int(input("Enter total classes: "))
 attended = int(input("Enter attended classes: "))
@@ -35,18 +35,18 @@ else:
     print("Extra Classes Needed:", int(needed) + 1)
 ```
 
- ## Sample input 
+ # Sample input 
 
   Enter total classes: 100
 Enter attended classes: 60
 
-## Sample output
+# Sample output
 Attendance Percentage: 60.0
 Attendance is Below 75%
 Extra Classes Needed: 60
 
-## Flow chart
-```marmaid
+# Flow chart
+```mermaid
 graph TD
     A([Start]) --> B[/Enter Total Classes/]
     B --> C[/Enter Attended Classes/]
