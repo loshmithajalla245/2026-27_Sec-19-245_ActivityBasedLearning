@@ -6,24 +6,24 @@
 
 **RollNo** : 26000245
 
-## Selected 10 case-studies
+# Selected 10 case-studies
 
 1.University Scholorship Allocation 
 
 2.Progressive electricity billing
 
-3.employee payroll and deductions
+3.Employee payroll and deductions
 
-4.retail billing multiple discounts
+4.Retail billing multiple discounts
 
-5.attendance recovery computation
+5.Attendance recovery computation
 
-6.atm transaction sequence
+6.ATM transaction sequence
 
-7.student timetable conflict detection
+7.Student timetable conflict detection
 
-8.nested loop calendar generator 
+8.Nested loop calendar generator 
 
-9.student marks matrix analysis
+9.Student marks matrix analysis
 
-10.tuple product catalogue audit
+10.Tuple-based product catalogue audit
